@@ -12,6 +12,7 @@ set_theme() {
       red=$dragon_red
       pink=$dragon_orange
       yellow=$dragon_yellow
+      blue=$crystal_blue
       ;;
     lotus)
       white=$lotus_white_3
@@ -25,6 +26,7 @@ set_theme() {
       red=$lotus_red_4
       pink=$lotus_pink
       yellow=$lotus_teal_3
+      blue=$crystal_blue
       ;;
     *)
       white=$fuji_white
@@ -38,6 +40,7 @@ set_theme() {
       red=$wave_red
       pink=$sakura_pink
       yellow=$ronin_yellow
+      blue=$crystal_blue
       ;;
   esac
 }
