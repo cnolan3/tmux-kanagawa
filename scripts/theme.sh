@@ -10,7 +10,7 @@ set_theme() {
       green=$dragon_ash
       orange=$dragon_yellow
       red=$dragon_red
-      pink=$crystal_blue
+      pink=$dragon_orange
       yellow=$dragon_yellow
       ;;
     lotus)
@@ -32,8 +32,8 @@ set_theme() {
       dark_gray=$sumi_ink_2
       light_purple=$sumi_ink_5
       dark_purple=$sumi_ink_6
-      cyan=$wave_aqua
-      green=$spring_violet_1
+      cyan=$crystal_blue
+      green=$wave_aqua
       orange=$autumn_orange
       red=$wave_red
       pink=$sakura_pink
